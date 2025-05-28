@@ -67,3 +67,12 @@ footer {
     color: #888;
     font-size: 0.9em;
 }
+
+ audio{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border-radius: 0px;
+    text-align: center;
+    margin-bottom: 30px;
+}
